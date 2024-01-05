@@ -12,16 +12,16 @@
     src: url('https://fonts.googleapis.com/css?family=Fira Mono');
 }
 
-/*@font-face {
+@font-face {
     font-family: 'BBBPoppins Text';
     src: 
-        url(https://gitlab.com/bye-bye-binary/bbb-poppins-tn/-/blob/main/webfonts/BBBPoppinsTN-TextRegular.woff2) format("woff2"),
-        url(https://gitlab.com/bye-bye-binary/bbb-poppins-tn/-/blob/main/webfonts/BBBPoppinsTN-TextRegular.woff) format("woff"),
-        url(https://gitlab.com/bye-bye-binary/bbb-poppins-tn/-/blob/main/ttf/BBBPoppinsTN-TextRegular.ttf) format("ttf");
-}*/
+        url(fonts/BBBPoppinsTN-TextRegular.woff2) format("woff2"),
+        url(fonts/BBBPoppinsTN-TextRegular.woff) format("woff"),
+        url(fonts/BBBPoppinsTN-TextRegular.ttf) format("ttf");
+}
 
 body {
-    font-family: 'BBB Poppins TN Text', sans-serif;
+    font-family: 'BBB Poppins TN Text', 'BBBPoppins Text', sans-serif;
 //    font-family: 'BBBPoppins Text', serif;
 }
 
