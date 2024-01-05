@@ -1,0 +1,66 @@
+/*-- scss:defaults --*/
+
+// Body
+
+// $body-bg:                   #282A36 !default;
+// $body-color:                #6f42c1 !default;
+  
+/*-- scss:rules --*/
+
+@font-face {
+    font-family: 'Fira Mono';
+    src: url('https://fonts.googleapis.com/css?family=Fira Mono');
+}
+
+@font-face {
+    font-family: 'BBBPoppins Text';
+    src: 
+        url(fonts/BBBPoppinsTN-TextRegular.woff2) format("woff2"),
+        url(fonts/BBBPoppinsTN-TextRegular.woff) format("woff"),
+        url(fonts/BBBPoppinsTN-TextRegular.ttf) format("ttf");
+}
+
+body {
+    font-family: 'BBB Poppins TN Text', 'BBBPoppins Text', sans-serif;
+//    font-family: 'BBBPoppins Text', serif;
+}
+
+p {
+//    color: #6f42c1;
+    font-variant-ligatures: contextual;
+}
+
+h1, h2, h3, h4, h5, h6 {
+//    color: burlywood;
+    font-family: 'BBB Poppins TN Display';
+    font-variant-ligatures: contextual;
+}
+
+.header-section-number {
+    color: #78c2ad;
+}
+
+#title-block-header {
+    background-color: #a6d7c9;
+    padding-left: 20px;
+    margin-left: -20px;
+    padding-top: 10px;
+    margin-top: -10px;
+    padding-bottom: 10px;
+    border: none;
+}
+
+.etat-progression {
+    font-family: 'Fira Mono', Consolas, 'Courier New', Courier, monospace;
+    font-size: 0.8em;
+    opacity: 90%;
+}
+
+.callout-header {
+    font-family: 'Fira Mono', Consolas, 'Courier New', Courier, monospace;
+}
+
+/*.references {
+    padding-left: 28px;
+    text-indent: -28px;
+}*/
