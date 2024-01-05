@@ -102,13 +102,13 @@ avaient été commis par l'un·e de leurs pair·es[^8]. Dans la plupart de ces c
 
 [^8]: Référence à ajouter
 
-Symétriquement, lorsque l'on s'intéresse à situer les violences vécues par les doctorant·es par rapport à l'ensemble des travailleur·ses de l'ESR, la part des victimes de VSS de la part d'un·e supérieur·e hiérarchique serait également plus élevée chez les doctorant·es que chez les personnels titulaires de l'ESR [^9].
+Symétriquement, lorsque l'on s'intéresse à situer les violences vécues par les doctorant·es par rapport à l'ensemble des travailleur·ses de l'ESR, on peut observer dans les chiffres de l'étude Pilote que la part des victimes de VSS d'un·e supérieur·e hiérarchique serait également plus élevée chez les doctorant·es (70,9%) que chez les personnels titulaires de l'ESR (61,1%)[^9]. Dans un milieu professionnel où les supérieur·es hiérarchiques sont déjà surreprésenté·es parmi les auteur·es de VSS[^10], les doctorant·es semblent être particulièrement visées par des comportements de prédation. Cela semble être un secret de polichinelle : une doctorante résume la situation, dans un entretien pour le journal *Libération*, en décrivant ses paires comme "*premier maillon de la chaîne alimentaire*[^11]". 
 
 [^9]: @hamel2022, p. 11
 
-::: {.callout-caution title="En cours"}
-Ce dernier paragraphe est à reformuler et prolonger. Notamment sur la question de la prédation particulière vis-à-vis des doctorantes.
-:::
+[^10]: Voir pour comparaison l'enquête Virage
+
+[^11]: @blin2022, p. 18
 
 ## Hypothèses suivantes
 
