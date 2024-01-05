@@ -11,6 +11,16 @@
         url(fonts/BBBPoppinsTN-TextRegular.ttf) format("ttf");
 }
 
+@font-face {
+    font-family: 'BBBPoppins Display';
+    src: 
+        url(fonts/BBBPoppinsTN-DisplayRegular.woff2) format("woff2"),
+        url(fonts/BBBPoppinsTN-DisplayRegular.woff) format("woff"),
+        url(fonts/BBBPoppinsTN-DisplayRegular.ttf) format("ttf");
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono&display=swap');
+
 body {
     font-family: 'BBB Poppins TN Text', 'BBBPoppins Text', sans-serif;
 }
@@ -20,7 +30,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'BBB Poppins TN Display';
+    font-family: 'BBB Poppins TN Display', 'BBBPoppins Display';
     font-variant-ligatures: contextual;
 }
 
