@@ -1,0 +1,119 @@
+---
+title: "État de l'art scientifique"
+subtitle: "Enquête Doctorat"
+author: Victoria Leroy
+date: 2024-01-03
+date-modified: 2024-01-04
+format:
+  html:
+    code-fold: true
+    toc: true
+    number-sections: true
+    mainfont: 'BBB Poppins TN Text'
+    fontsize: 14px
+    theme: 
+      - minty
+      - minty-vicxed.scss
+reference-location: margin
+citation-location: document
+bibliography: references.bib
+search: false
+csl: petit-chicago-author-date.csl
+---
+
+::: etat-progression
+Date de complétion prévue : fin janvier 2024
+
+::: progress
+::: {.progress-bar .progress-bar-striped .progress-bar-animated role="progressbar" aria-valuenow="8" aria-valuemin="0" aria-valuemax="100" style="width: 8%;"}
+:::
+:::
+:::
+
+------------------------------------------------------------------------
+
+# Les VSS dans le cadre du doctorat : un angle mort de la recherche
+
+Notre examen de la littérature scientifique existante a mis en évidence le manque d'études, quantitatives et qualitatives, sur les violences sexistes et sexuelles vécues au cours du doctorat. Plutôt que de *littérature existante*, on pourrait en vérité parler de *littérature quasi-inexistante* et, pour l'essentiel, extrêmement récente.
+
+Le caractère particulier du doctorat, considéré à la fois comme un parcours de formation et comme une expérience professionnelle[^1], ajoute à la précarité matérielle des doctorant·es leur invisibilisation statistique. Les études menées sur les VSS parmi la population étudiante **n'incluent généralement pas les doctorant·es** ou ne le mentionnent pas, ou bien ne les décomptent pas en tant que tel·les. Même chose pour les enquêtes menées parmi les personnels des institutions d'enseignement supérieur et de recherche. Affilié·es à un statut qui retombe perpétuellement en-dehors des cases que prévoient les grilles d'analyse, les doctorant·es sont absent·es des échantillons interrogés (ou des données retenues) parce que les caractéristiques de leurs interactions au sein des établissements sont trop singulières. Parfois, tout simplement, leur statut est mal connu et intégré à une étiquette "Étudiant·es" qui ne permet pas d'en connaître les particularités éventuelles[^2].
+
+[^1]: [Article L612-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042813268) du Code de l'éducation
+
+[^2]: Cette irrégularité de prise en compte du statut doctoral se retrouve jusque dans la rédaction des décisions du Cneser disciplinaire telles qu'elles paraissent au Bulletin Officiel du MESR. (*Nous revenons plus en détails sur le Cneser disciplinaire dans notre état des lieux juridique.*)
+
+Cette invisibilité pour cause de particularité n'est pas compensée par des études d'ampleur ciblant spécifiquement les doctorant·es : nous n'en avons relevé, à ce jour[^3] et en France, **aucune**, si ce n'est la seconde enquête du Réseau National des Collèges Doctoraux (RNCD)[^4], qui ne pallie cependant pas le manque que nous soulignons ici *(lire notre encadré ci-dessous)*.
+
+[^3]: Au 31 décembre 2023.
+
+[^4]: @pommier2023
+
+::: {#nte-enqueteRNCD .callout-note title="La thématique des VSS dans l'enquête RNCD 2023"}
+Nous saluons l'initiative du RNCD, qui fournit un portrait statistique globalement représentatif des doctorant·es inscrit·es dans un établissement français. Avec 13412 répondant·es, soit près de 20% de la population doctorante réelle en France, la couverture de cette enquête lui permet d'établir un diagnostic réaliste de la situation doctorale à l'échelle nationale.
+
+Toutefois, nous regrettons de constater que la section de l'enquête concernant les violences sexistes et sexuelles, qui était facultative (40% des doctorant·es participant à l'enquête l'ont ignorée), s'intéresse exclusivement à la perception des mesures de lutte contre les VSS dans les établissements d'enseignement supérieur et de recherche. Elle consiste donc en un outil d'évaluation du [Plan national 2021-2025 d'action contre les violences sexistes et sexuelles dans l'ESR](https://www.enseignementsup-recherche.gouv.fr/fr/plan-national-d-action-contre-les-violences-sexistes-et-sexuelles-dans-l-esr-2021-2025-87841) et ne donne aucune information quant à la prévalence des faits de VSS parmi des enquêté·es.
+:::
+
+# Éclairages démographiques : la population doctorante en France
+
+::: {.callout-caution title="En cours"}
+:::
+
+# Quelques hypothèses à la lumière de notre revue de littérature
+
+## On peut s'attendre à une prévalence élevée des VSS parmi les doctorant·es
+
+### Sous-hypothèse 1 : Prévalence ++ parmi les travailleur·ses de l'ESR
+
+::: {.callout-caution title="En cours"}
+:::
+
+### Sous-hypothèse 2 : Prévalence accrue, au sein de ces travailleur·ses, chez les doctorantes et jeunes docteures
+
+::: {.callout-caution title="En cours"}
+:::
+
+> Concernant les traitements inégalitaires sexistes (qui pour rappel affectent 22,5 % des personnels femmes), on observe de nettes différences de fréquence selon les statuts : 25,4 % des doctorantes, post-doctorantes ou ATER, et 18,3 % des enseignanteschercheuses contre 7,6 % des personnels administratifs et techniques[^5].
+
+[^5]: @hamel2022, p. 10
+
+## La position hiérarchique des auteurs des faits : un trait singulier des VSS subies par les doctorant·es
+
+Dans le cadre de son enquête "Pilote", l'équipe du projet Acadiscri a relevé que parmi les "traitements inégalitaires à caractère sexiste"[^6] rapportées par des doctorant·es ou docteur·es non titulaires, **70,9% étaient attribués à un·e chercheur·se ou enseignant·e-chercheur·se**, contre 14,9% à un·e étudiant·e[^7].
+
+[^6]: Le rapport d'enquête Pilote analyse les faits rapportés (généralisés sous le terme de "discriminations" ou de "traitements inégalitaires") non pas en fonction des actes par lesquels ils se manifestent ou de leur caractérisation juridique, mais en fonction du "motif discriminatoire perçu". Les violences sexuelles sont donc essentiellement mentionnées parmi les "traitements sexistes".
+
+[^7]: @hajjat2022, p. 48
+
+C'est un fait statistique qui, s'il se confirme, opposerait alors le vécu des doctorant·es de celui du reste de la population étudiante. En effet, pour les étudiant·es de premier et second cycle, les violences vécues sont généralement intracommunautaires. **Dans le cas des doctorant·es, la part des auteur·es de VSS disposant d'une supériorité hiérarchique sur leur victime serait singulièrement élevée.**
+
+En effet, lorsque des étudiant·es de niveau Licence ou Master ont déclaré avoir été victimes de discrimination sexiste lors de cette même enquête Pilote, l'auteur·ice des faits était un·e autre étudiant·e dans au moins 47% des cas. Notre propre Baromètre relevait en 2023 que, parmi les violences rapportées par les étudiant·es :
+
+-   55% des faits d'outrage sexiste,
+-   plus de 60% des cas de harcèlement moral à caractère sexiste ou queerphobe,
+-   71% des cas de harcèlement sexuel,
+-   90% des cas d'exhibition sexuelle,
+-   58% des faits de voyeurisme,
+-   83% des cas d'agression sexuelle et 79% des tentatives d'agression sexuelle,
+-   et 86% des faits de viol
+
+avaient été commis par l'un·e de leurs pair·es[^8]. Dans la plupart de ces cas, l'étudiant·e en cause était issu·e de la même promotion et du même établissement que la victime.
+
+[^8]: Référence à ajouter
+
+Symétriquement, lorsque l'on s'intéresse à situer les violences vécues par les doctorant·es par rapport à l'ensemble des travailleur·ses de l'ESR, la part des victimes de VSS de la part d'un·e supérieur·e hiérarchique serait également plus élevée chez les doctorant·es que chez les personnels titulaires de l'ESR [^9].
+
+[^9]: @hamel2022, p. 11
+
+::: {.callout-caution title="En cours"}
+Ce dernier paragraphe est à reformuler et prolonger. Notamment sur la question de la prédation particulière vis-à-vis des doctorantes.
+:::
+
+## Hypothèses suivantes
+
+::: {.callout-caution title="En cours"}
+:::
+
+------------------------------------------------------------------------
+
+# Bibliographie {.unnumbered}

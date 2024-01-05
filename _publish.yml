@@ -1,0 +1,10 @@
+project:
+  type: website
+  output-dir: docs
+
+- source: etatdelart-sci.qmd
+  quarto-pub:
+    - id: bff51fcc-8d90-4d9d-91d6-ed3d219df110
+      url: 'https://vicleroy.quarto.pub/enquete-doctorat--etat-de-la-litt�rature-scientifique'
+    - id: ecec6864-c2dd-485e-8573-25e75f1e96b1
+      url: 'https://vicleroy.quarto.pub/enq-doc-etatlitt-sci'
