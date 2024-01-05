@@ -13,7 +13,8 @@ format:
     fontsize: 14px
     theme: 
       - minty
-      - minty-vicxed.scss
+      - minty-vicxed.css
+#      - minty-vicxed.scss
 reference-location: margin
 citation-location: document
 bibliography: references.bib
