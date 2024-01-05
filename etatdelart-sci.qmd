@@ -115,10 +115,32 @@ Symétriquement, lorsque l'on s'intéresse à situer les violences vécues par l
 ::: {.callout-caution title="En cours"}
 :::
 
-## Hypothèses suivantes
+### L'ESR présente un climat structurellement et culturellement favorable aux VSS
+
+- Difficile féminisation de l'ESR
+- Des dynamiques de pouvoir entretenues par le contrôle/promotion par les pair·es et qui favorisent les violences
+
+### Les témoins de faits de VSS agissent rarement pour soutenir leurs collègues victimes
+
+## Les dispositifs institutionnels sont carencés
 
 ::: {.callout-caution title="En cours"}
 :::
+
+### Ils sont insuffisants
+### Ils sont dysfonctionnels
+### Ils sont mal connus
+### Ce sont des collectifs qui essaient de pallier au mieux ces carences
+
+## Les VSS ont des conséquences graves sur la trajectoire professionnelle des victimes
+
+::: {.callout-caution title="En cours"}
+:::
+
+### L'asymétrie des conséquences 
+### Une économie de la gestion de la violence
+
+# Conclusion {.unnumbered}
 
 ------------------------------------------------------------------------
 
