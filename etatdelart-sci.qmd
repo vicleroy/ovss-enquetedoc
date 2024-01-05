@@ -127,18 +127,18 @@ Symétriquement, lorsque l'on s'intéresse à situer les violences vécues par l
 ::: {.callout-caution title="En cours"}
 :::
 
-### Ils sont insuffisants
-### Ils sont dysfonctionnels
-### Ils sont mal connus
-### Ce sont des collectifs qui essaient de pallier au mieux ces carences
+- Ils sont insuffisants
+- Ils sont dysfonctionnels
+- Ils sont mal connus
+- Ce sont des collectifs qui essaient de pallier au mieux ces carences
 
 ## Les VSS ont des conséquences graves sur la trajectoire professionnelle des victimes
 
 ::: {.callout-caution title="En cours"}
 :::
 
-### L'asymétrie des conséquences 
-### Une économie de la gestion de la violence
+- L'asymétrie des conséquences 
+- Une économie de la gestion de la violence
 
 # Conclusion {.unnumbered}
 
