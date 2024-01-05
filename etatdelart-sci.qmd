@@ -8,13 +8,13 @@ format:
   html:
     code-fold: true
     toc: true
+    toc-title: "Sommaire"
     number-sections: true
     mainfont: 'BBB Poppins TN Text'
     fontsize: 14px
     theme: 
       - minty
       - minty-vicxed.css
-#      - minty-vicxed.scss
 reference-location: margin
 citation-location: document
 bibliography: references.bib
