@@ -14,7 +14,7 @@ website:
 format:
   html:
     theme: minty
-    css: minty-vicked.scss
+    css: minty-vicked.css
     toc: true
 
 
