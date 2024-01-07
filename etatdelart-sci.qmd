@@ -102,12 +102,12 @@ Conditions de déroulement :
 
 ### Sous-hypothèse 1 : Prévalence ++ parmi les travailleur·ses de l'ESR
 
-::: {.callout-caution title="En cours"}
+::: {.callout-caution title="En cours, 0%"}
 :::
 
 ### Sous-hypothèse 2 : Prévalence accrue, au sein de ces travailleur·ses, chez les doctorantes et jeunes docteures
 
-::: {.callout-caution title="En cours"}
+::: {.callout-caution title="En cours, 0%"}
 :::
 
 > Concernant les traitements inégalitaires sexistes (qui pour rappel affectent 22,5 % des personnels femmes), on observe de nettes différences de fréquence selon les statuts : 25,4 % des doctorantes, post-doctorantes ou ATER, et 18,3 % des enseignanteschercheuses contre 7,6 % des personnels administratifs et techniques[^6].
@@ -115,6 +115,9 @@ Conditions de déroulement :
 [^6]: @hamel2022, p. 10
 
 ## La position hiérarchique des auteurs des faits : un trait singulier des VSS subies par les doctorant·es
+::: {.callout-caution title="En cours, 95%"}
+Reste juste une phrase ou deux de conclusion + croiser avec les lectures de Guillaume
+:::
 
 Dans le cadre de son enquête "Pilote", l'équipe du projet Acadiscri a relevé que parmi les "traitements inégalitaires à caractère sexiste"[^7] rapportées par des doctorant·es ou docteur·es non titulaires, **70,9% étaient attribués à un·e chercheur·se ou enseignant·e-chercheur·se**, contre 14,9% à un·e étudiant·e[^8].
 
@@ -148,7 +151,7 @@ Symétriquement, lorsque l'on s'intéresse à situer les violences vécues par l
 
 ## Les VSS sont normalisées dans la culture professionnelle de l'ESR
 
-::: {.callout-caution title="En cours"}
+::: {.callout-caution title="En cours, 0%"}
 :::
 
 ### L'ESR présente un climat structurellement et culturellement favorable aux VSS
@@ -160,7 +163,7 @@ Symétriquement, lorsque l'on s'intéresse à situer les violences vécues par l
 
 ## Les dispositifs institutionnels sont carencés
 
-::: {.callout-caution title="En cours"}
+::: {.callout-caution title="En cours, 0%"}
 :::
 
 -   Ils sont insuffisants
@@ -170,13 +173,16 @@ Symétriquement, lorsque l'on s'intéresse à situer les violences vécues par l
 
 ## Les VSS ont des conséquences graves sur la trajectoire professionnelle des victimes
 
-::: {.callout-caution title="En cours"}
+::: {.callout-caution title="En cours, 0%"}
 :::
 
 -   L'asymétrie des conséquences
 -   Une économie de la gestion de la violence
 
 # Conclusion {.unnumbered}
+
+::: {.callout-caution title="En cours, 0%"}
+:::
 
 ------------------------------------------------------------------------
 
