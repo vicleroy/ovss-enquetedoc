@@ -58,9 +58,34 @@ Toutefois, nous regrettons de constater que la section de l'enquête concernant 
 # Éclairages démographiques : la population doctorante en France
 
 ::: {.callout-caution title="En cours"}
+Sources à utiliser : 
+
+- Enquête RNCD
+- Chiffres des ED collationnés par le SIES
 :::
 
-# Quelques hypothèses à la lumière de notre revue de littérature
+Chiffres généraux :
+
+-   Sur l'année 2022-2023, on comptait d'après le SIES 70697 inscrit·es en doctorat, toutes années d'inscription confondues.
+-   Evolution dans les dernières années : "Par rapport à la rentrée 2011, l’effectif des nouveaux inscrits a baissé de 10 % en 2021. Cette évolution concerne notamment les sciences humaines et humanités (- 32 %) et les sciences de la société (- 30 %). En revanche, entre la rentrée 2011 et la rentrée 2021, le nombre d’inscrits en première année de doctorat a progressé de 19 % en sciences du vivant et de 4 % en sciences exactes et applications[^5]."
+-   Répartition en fonction des disciplines
+
+[^5]: (Etat de l'Enseignement supérieur..., section 38 "Le doctorat et les docteurs")
+
+Les femmes dans le doctorat :
+
+-   Taux de féminisation générale
+-   Répartition selon les disciplines
+-   Taux de soutenance
+
+Conditions de déroulement :
+
+-   Durée moyenne à la soutenance selon les disciplines
+-   Financement
+
+------------------------------------------------------------------------
+
+# Enseignements et hypothèses retenus à la lumière de notre revue de littérature
 
 ## On peut s'attendre à une prévalence élevée des VSS parmi les doctorant·es
 
@@ -74,17 +99,17 @@ Toutefois, nous regrettons de constater que la section de l'enquête concernant 
 ::: {.callout-caution title="En cours"}
 :::
 
-> Concernant les traitements inégalitaires sexistes (qui pour rappel affectent 22,5 % des personnels femmes), on observe de nettes différences de fréquence selon les statuts : 25,4 % des doctorantes, post-doctorantes ou ATER, et 18,3 % des enseignanteschercheuses contre 7,6 % des personnels administratifs et techniques[^5].
+> Concernant les traitements inégalitaires sexistes (qui pour rappel affectent 22,5 % des personnels femmes), on observe de nettes différences de fréquence selon les statuts : 25,4 % des doctorantes, post-doctorantes ou ATER, et 18,3 % des enseignanteschercheuses contre 7,6 % des personnels administratifs et techniques[^6].
 
-[^5]: @hamel2022, p. 10
+[^6]: @hamel2022, p. 10
 
 ## La position hiérarchique des auteurs des faits : un trait singulier des VSS subies par les doctorant·es
 
-Dans le cadre de son enquête "Pilote", l'équipe du projet Acadiscri a relevé que parmi les "traitements inégalitaires à caractère sexiste"[^6] rapportées par des doctorant·es ou docteur·es non titulaires, **70,9% étaient attribués à un·e chercheur·se ou enseignant·e-chercheur·se**, contre 14,9% à un·e étudiant·e[^7].
+Dans le cadre de son enquête "Pilote", l'équipe du projet Acadiscri a relevé que parmi les "traitements inégalitaires à caractère sexiste"[^7] rapportées par des doctorant·es ou docteur·es non titulaires, **70,9% étaient attribués à un·e chercheur·se ou enseignant·e-chercheur·se**, contre 14,9% à un·e étudiant·e[^8].
 
-[^6]: Le rapport d'enquête Pilote analyse les faits rapportés (généralisés sous le terme de "discriminations" ou de "traitements inégalitaires") non pas en fonction des actes par lesquels ils se manifestent ou de leur caractérisation juridique, mais en fonction du "motif discriminatoire perçu". Les violences sexuelles sont donc essentiellement mentionnées parmi les "traitements sexistes".
+[^7]: Le rapport d'enquête Pilote analyse les faits rapportés (généralisés sous le terme de "discriminations" ou de "traitements inégalitaires") non pas en fonction des actes par lesquels ils se manifestent ou de leur caractérisation juridique, mais en fonction du "motif discriminatoire perçu". Les violences sexuelles sont donc essentiellement mentionnées parmi les "traitements sexistes".
 
-[^7]: @hajjat2022, p. 48
+[^8]: @hajjat2022, p. 48
 
 C'est un fait statistique qui, s'il se confirme, opposerait alors le vécu des doctorant·es de celui du reste de la population étudiante. En effet, pour les étudiant·es de premier et second cycle, les violences vécues sont généralement intracommunautaires. **Dans le cas des doctorant·es, la part des auteur·es de VSS disposant d'une supériorité hiérarchique sur leur victime serait singulièrement élevée.**
 
@@ -98,17 +123,17 @@ En effet, lorsque des étudiant·es de niveau Licence ou Master ont déclaré av
 -   83% des cas d'agression sexuelle et 79% des tentatives d'agression sexuelle,
 -   et 86% des faits de viol
 
-avaient été commis par l'un·e de leurs pair·es[^8]. Dans la plupart de ces cas, l'étudiant·e en cause était issu·e de la même promotion et du même établissement que la victime.
+avaient été commis par l'un·e de leurs pair·es[^9]. Dans la plupart de ces cas, l'étudiant·e en cause était issu·e de la même promotion et du même établissement que la victime.
 
-[^8]: Référence à ajouter
+[^9]: Référence à ajouter
 
-Symétriquement, lorsque l'on s'intéresse à situer les violences vécues par les doctorant·es par rapport à l'ensemble des travailleur·ses de l'ESR, on peut observer dans les chiffres de l'étude Pilote que la part des victimes de VSS d'un·e supérieur·e hiérarchique serait également plus élevée chez les doctorant·es (70,9%) que chez les personnels titulaires de l'ESR (61,1%)[^9]. Dans un milieu professionnel où les supérieur·es hiérarchiques sont déjà surreprésenté·es parmi les auteur·es de VSS[^10], les doctorant·es semblent être particulièrement visées par des comportements de prédation. Cela semble être un secret de polichinelle : une doctorante résume la situation, dans un entretien pour le journal *Libération*, en décrivant ses paires comme "*premier maillon de la chaîne alimentaire*[^11]".
+Symétriquement, lorsque l'on s'intéresse à situer les violences vécues par les doctorant·es par rapport à l'ensemble des travailleur·ses de l'ESR, on peut observer dans les chiffres de l'étude Pilote que la part des victimes de VSS d'un·e supérieur·e hiérarchique serait également plus élevée chez les doctorant·es (70,9%) que chez les personnels titulaires de l'ESR (61,1%)[^10]. Dans un milieu professionnel où les supérieur·es hiérarchiques sont déjà surreprésenté·es parmi les auteur·es de VSS[^11], les doctorant·es semblent être particulièrement visées par des comportements de prédation. Cela semble être un secret de polichinelle : une doctorante résume la situation, dans un entretien pour le journal *Libération*, en décrivant ses paires comme "*premier maillon de la chaîne alimentaire*[^12]".
 
-[^9]: @hamel2022, p. 11
+[^10]: @hamel2022, p. 11
 
-[^10]: Voir pour comparaison l'enquête Virage
+[^11]: Voir pour comparaison l'enquête Virage
 
-[^11]: @blin2022, p. 18
+[^12]: @blin2022, p. 18
 
 ## Les VSS sont normalisées dans la culture professionnelle de l'ESR
 
@@ -117,8 +142,8 @@ Symétriquement, lorsque l'on s'intéresse à situer les violences vécues par l
 
 ### L'ESR présente un climat structurellement et culturellement favorable aux VSS
 
-- Difficile féminisation de l'ESR
-- Des dynamiques de pouvoir entretenues par le contrôle/promotion par les pair·es et qui favorisent les violences
+-   Difficile féminisation de l'ESR
+-   Des dynamiques de pouvoir entretenues par le contrôle/promotion par les pair·es et qui favorisent les violences
 
 ### Les témoins de faits de VSS agissent rarement pour soutenir leurs collègues victimes
 
@@ -127,18 +152,18 @@ Symétriquement, lorsque l'on s'intéresse à situer les violences vécues par l
 ::: {.callout-caution title="En cours"}
 :::
 
-- Ils sont insuffisants
-- Ils sont dysfonctionnels
-- Ils sont mal connus
-- Ce sont des collectifs qui essaient de pallier au mieux ces carences
+-   Ils sont insuffisants
+-   Ils sont dysfonctionnels
+-   Ils sont mal connus
+-   Ce sont des collectifs qui essaient de pallier au mieux ces carences
 
 ## Les VSS ont des conséquences graves sur la trajectoire professionnelle des victimes
 
 ::: {.callout-caution title="En cours"}
 :::
 
-- L'asymétrie des conséquences 
-- Une économie de la gestion de la violence
+-   L'asymétrie des conséquences
+-   Une économie de la gestion de la violence
 
 # Conclusion {.unnumbered}
 
