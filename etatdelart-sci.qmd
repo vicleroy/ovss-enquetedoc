@@ -92,7 +92,6 @@ Les femmes dans le doctorat :
 -   Répartition selon les disciplines
 -   Taux de soutenance
 
-
 ------------------------------------------------------------------------
 
 # Enseignements et hypothèses retenus à la lumière de notre revue de littérature
@@ -104,14 +103,88 @@ Les femmes dans le doctorat :
 ::: {.callout-caution title="En cours, 0%"}
 :::
 
+D'après un sondage mené par l'institut Ipsos pour la Fondation L'Oréal, 60% des chercheur·ses français·es estiment que le sexisme dans la sphère professionnelle de l'ESR est un problème inquiétant et répandu, et 65% considèrent qu'il n'est pas suffisamment abordé [^6]. Et en effet, les quelques statistiques dont nous disposons amènent à penser que si le regard médiatique se porte plus souvent sur d'autres milieux professionnels (le sport de haut niveau, le cinéma, la télévision, ...), l'ESR n'est très certainement pas en reste.
+
+[^6]: @harcèlem2023, pp. 22 et 24
+
+Au sein de cette même enquête Ipsos, 89% des femmes chercheuses interrogées en France ont déclaré avoir subi au moins une situation de sexisme dans leur carrière. Un chiffre d'autant plus alarmant qu'il est supérieur à celui que l'Ipsos a pu établir, lors de la même étude, pour l'ensemble des répondantes européennes (86%) et du monde (84%)[^7]. Une chercheuse française sur 4 ayant participé à cette étude rapporte qu'elle a subi ces situations sexistes de manière fréquente. Et ce sexisme n'est pas d'une autre ère : dans 66% des cas, les faits dont il est question remontent à moins de 5 ans au moment de l'étude, c'est-à-dire à 2018 au plus tôt[^8].
+
+[^7]: @harcèlem2023, p. 29
+
+[^8]: @harcèlem2023, p. 33
+
+> Spontanément, 84% des chercheusEs déclarent avoir personnellement vécu au moins une situation de sexisme dans leur carrière (en France : 89%). 24% déclarent en avoir vécu fréquemment (FR : 25%). Dans 66% des cas, c'était il y a moins de 5 ans.[^9].
+
+[^9]: Ipsos pour la Fondation L'Oréal, *Harcèlement sexuel et sexisme au sein du monde scientifique*, p.
+
+> Au sein de l'établissement, 13,5 % des personnels déclarent avoir subi au moins une forme de comportement sexiste (22,5 % des femmes).[^10].
+
+[^10]: Équipe ACADISCRI, *Expérience des discriminations dans l'enseignement supérieur et la recherche en France*, p.9
+
+> Les traitements inégalitaires LGBTQIphobes touchent 2,1 % des personnels, les femmes étant davantage concernées (2,9 %) que les hommes. Surtout, ces situations sont déclarées par 13,8% des personnes se définissant comme homosexuelles , bisexuelles, asexuelles ou trans.[^11].
+
+[^11]: Équipe ACADISCRI, *Expérience des discriminations dans l'enseignement supérieur et la recherche en France*, p.11
+
+> Entre 2009 et 2022, 87 décisions du Cneser disciplinaire portent sur des faits de VSS. 59 d'entre elles portent sur des VSS commises par des enseignants dans 46 affaires différentes.[^12].
+
+[^12]: CORDONNIER, Camille & PAILLASSA, Pauline, *Cneser disciplinaire : plus d’un tiers des enseignants mis en cause dans des affaires de VSS sont relaxés*, p.
+
+> En 2022, année record, le Cneser s'est prononcé à 11 reprises sur des affaires de VSS mettant en cause des enseignants.[^13].
+
+[^13]: CORDONNIER, Camille & PAILLASSA, Pauline, *Cneser disciplinaire : plus d’un tiers des enseignants mis en cause dans des affaires de VSS sont relaxés*, p.
+
+> Exposées à une liste de situations sexistes, 1 chercheuse sur 2 déclare en avoir vécu au moins 3 différentes.[^14].
+
+[^14]: Ipsos pour la Fondation L'Oréal, *Harcèlement sexuel et sexisme au sein du monde scientifique*, p.
+
+> L'auteurice du fait sexiste est un·e enseignant·e dans 33% des cas, un personnel administratif ou technique dans 26% des cas, et un·e étudiant·e dans 21% des cas.[^15].
+
+[^15]: Ipsos pour la Fondation L'Oréal, *Harcèlement sexuel et sexisme au sein du monde scientifique*, p.
+
+> Spontanément, 87% des chercheur·ses déclarent avoir été témoins d'au moins une situation de sexisme dans leur carrière (90% des femmes et 76% des hommes). Pour 29%, c'est arrivé fréquemment (34% des femmes, 11% des hommes).[^16].
+
+[^16]: Ipsos pour la Fondation L'Oréal, *Harcèlement sexuel et sexisme au sein du monde scientifique*, p.
+
+> Spontanément, 40% des chercheusEs déclarent avoir personnellement vécu au moins une situation de harcèlement sexuel dans leur carrière (en France : 33%). [^17].
+
+[^17]: Ipsos pour la Fondation L'Oréal, *Harcèlement sexuel et sexisme au sein du monde scientifique*, p.
+
+> Lorsqu'on leur présente une liste, il s'avère que c'est en fait 49% des chercheuses qui ont subi au moins un fait de harcèlement sexuel (FR : 45%), et 17% en ont vécu au moins 3 (FR : 12%).[^18].
+
+[^18]: Ipsos pour la Fondation L'Oréal, *Harcèlement sexuel et sexisme au sein du monde scientifique*, p.
+
+> Spontanément, 43% des chercheur·ses déclarent avoir été témoins d'au moins une situation de sexisme dans leur carrière (48% des femmes et 29% des hommes ; FR : 37%). [^19].
+
+[^19]: Ipsos pour la Fondation L'Oréal, *Harcèlement sexuel et sexisme au sein du monde scientifique*, p.
+
 ### Sous-hypothèse 2 : Prévalence accrue, au sein de ces travailleur·ses, chez les doctorantes et jeunes docteures
 
 ::: {.callout-caution title="En cours, 0%"}
 :::
 
-> Concernant les traitements inégalitaires sexistes (qui pour rappel affectent 22,5 % des personnels femmes), on observe de nettes différences de fréquence selon les statuts : 25,4 % des doctorantes, post-doctorantes ou ATER, et 18,3 % des enseignanteschercheuses contre 7,6 % des personnels administratifs et techniques[^6].
+> Concernant les traitements inégalitaires sexistes (qui pour rappel affectent 22,5 % des personnels femmes), on observe de nettes différences de fréquence selon les statuts : 25,4 % des doctorantes, post-doctorantes ou ATER, et 18,3 % des enseignanteschercheuses contre 7,6 % des personnels administratifs et techniques[^20].
 
-[^6]: @hamel2022, p. 10
+[^20]: @hamel2022, p. 10
+
+> 24% des doctorant·es déclarent avoir été déjà victimes de harcèlement moral, violence sexiste ou sexuelle, ou discrimination.[^21].
+
+[^21]: FAGE, *Enquête doctorat : En finir avec les conditions de vie et de recherche précaires*, p.12
+
+> 25 % des répondant·es ont subi une situation à connotation sexuelle ou sexiste au moins une fois durant leur doctorat. [^22].
+
+[^22]: B. COMBES, Adèle, *Comment l'université broie les jeunes chercheurs*, p.
+
+> Près de 6 % des répondant·es déclarent avoir été victimes de harcèlement sexuel durant leur thèse (et 3 % n’en sont pas certain·es).[^23].
+
+[^23]: B. COMBES, Adèle, *Comment l'université broie les jeunes chercheurs*, p.
+
+> 17% des répondant·es (24% des femmes et 5% des hommes) ont subi des propos ou gestes à caractère sexuel ou sexiste.[^24].
+
+[^24]: B. COMBES, Adèle, *Comment l'université broie les jeunes chercheurs*, p.
+
+> 25% des répondant·es (31% des femmes, 16% des hommes) sont constamment interrompu·es lorsqu'iels s'expriment ou se voient interdire la parole.[^25].
+
+[^25]: B. COMBES, Adèle, *Comment l'université broie les jeunes chercheurs*, p.
 
 ## La position hiérarchique des auteurs des faits : un trait singulier des VSS subies par les doctorant·es
 
@@ -119,11 +192,11 @@ Les femmes dans le doctorat :
 Reste juste une phrase ou deux de conclusion + croiser avec les lectures de Guillaume
 :::
 
-Dans le cadre de son enquête "Pilote", l'équipe du projet Acadiscri a relevé que parmi les "traitements inégalitaires à caractère sexiste"[^7] rapportées par des doctorant·es ou docteur·es non titulaires, **70,9% étaient attribués à un·e chercheur·se ou enseignant·e-chercheur·se**, contre 14,9% à un·e étudiant·e[^8].
+Dans le cadre de son enquête "Pilote", l'équipe du projet Acadiscri a relevé que parmi les "traitements inégalitaires à caractère sexiste"[^26] rapportées par des doctorant·es ou docteur·es non titulaires, **70,9% étaient attribués à un·e chercheur·se ou enseignant·e-chercheur·se**, contre 14,9% à un·e étudiant·e[^27].
 
-[^7]: Le rapport d'enquête Pilote analyse les faits rapportés (généralisés sous le terme de "discriminations" ou de "traitements inégalitaires") non pas en fonction des actes par lesquels ils se manifestent ou de leur caractérisation juridique, mais en fonction du "motif discriminatoire perçu". Les violences sexuelles sont donc essentiellement mentionnées parmi les "traitements sexistes".
+[^26]: Le rapport d'enquête Pilote analyse les faits rapportés (généralisés sous le terme de "discriminations" ou de "traitements inégalitaires") non pas en fonction des actes par lesquels ils se manifestent ou de leur caractérisation juridique, mais en fonction du "motif discriminatoire perçu". Les violences sexuelles sont donc essentiellement mentionnées parmi les "traitements sexistes".
 
-[^8]: @hajjat2022, p. 48
+[^27]: @hajjat2022, p. 48
 
 C'est un fait statistique qui, s'il se confirme, opposerait alors le vécu des doctorant·es de celui du reste de la population étudiante. En effet, pour les étudiant·es de premier et second cycle, les violences vécues sont généralement intracommunautaires. **Dans le cas des doctorant·es, la part des auteur·es de VSS disposant d'une supériorité hiérarchique sur leur victime serait singulièrement élevée.**
 
@@ -137,17 +210,17 @@ En effet, lorsque des étudiant·es de niveau Licence ou Master ont déclaré av
 -   83% des cas d'agression sexuelle et 79% des tentatives d'agression sexuelle,
 -   et 86% des faits de viol
 
-avaient été commis par l'un·e de leurs pair·es[^9]. Dans la plupart de ces cas, l'étudiant·e en cause était issu·e de la même promotion et du même établissement que la victime.
+avaient été commis par l'un·e de leurs pair·es[^28]. Dans la plupart de ces cas, l'étudiant·e en cause était issu·e de la même promotion et du même établissement que la victime.
 
-[^9]: Référence à ajouter
+[^28]: Référence à ajouter
 
-Symétriquement, lorsque l'on s'intéresse à situer les violences vécues par les doctorant·es par rapport à l'ensemble des travailleur·ses de l'ESR, on peut observer dans les chiffres de l'étude Pilote que la part des victimes de VSS d'un·e supérieur·e hiérarchique serait également plus élevée chez les doctorant·es (70,9%) que chez les personnels titulaires de l'ESR (61,1%)[^10]. Dans un milieu professionnel où les supérieur·es hiérarchiques sont déjà surreprésenté·es parmi les auteur·es de VSS[^11], les doctorant·es semblent être particulièrement visées par des comportements de prédation. Cela semble être un secret de polichinelle : une doctorante résume la situation, dans un entretien pour le journal *Libération*, en décrivant ses paires comme "*premier maillon de la chaîne alimentaire*[^12]".
+Symétriquement, lorsque l'on s'intéresse à situer les violences vécues par les doctorant·es par rapport à l'ensemble des travailleur·ses de l'ESR, on peut observer dans les chiffres de l'étude Pilote que la part des victimes de VSS d'un·e supérieur·e hiérarchique serait également plus élevée chez les doctorant·es (70,9%) que chez les personnels titulaires de l'ESR (61,1%)[^29]. Dans un milieu professionnel où les supérieur·es hiérarchiques sont déjà surreprésenté·es parmi les auteur·es de VSS[^30], les doctorant·es semblent être particulièrement visées par des comportements de prédation. Cela semble être un secret de polichinelle : une doctorante résume la situation, dans un entretien pour le journal *Libération*, en décrivant ses paires comme "*premier maillon de la chaîne alimentaire*[^31]".
 
-[^10]: @hamel2022, p. 11
+[^29]: @hamel2022, p. 11
 
-[^11]: Voir pour comparaison l'enquête Virage
+[^30]: Voir pour comparaison l'enquête Virage
 
-[^12]: @blin2022, p. 18
+[^31]: @blin2022, p. 18
 
 ## Les VSS sont normalisées dans la culture professionnelle de l'ESR
 
